@@ -1,5 +1,5 @@
 # unity-networkmanager-bug
-An example project for a state machine bug in NetworkManager
+An example project for an apparent state machine [bug in NetworkManager](https://github.com/Unity-Technologies/com.unity.netcode.gameobjects/issues/1595).
 
 # Steps to reproduce
 1. Stop the project (if running)
